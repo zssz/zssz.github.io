@@ -2,5 +2,7 @@
    "webcredentials": {
       "apps": [ "AU9ZDUDBTM.zssz.github.io.Food-Truck", "AU9ZDUDBTM.zssz.github.io.Food-Truck-All" ]
    },
-
+   "appclips": {
+        "apps": ["AU9ZDUDBTM.zssz.github.io.fruta-all.clip"]
+    }
 }
